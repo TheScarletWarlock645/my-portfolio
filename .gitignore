@@ -1,0 +1,4 @@
+.env
+vendor/.
+errors.log
+.vscode/sftp.json
