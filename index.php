@@ -51,7 +51,7 @@
             <img src="recources/resume.png" class="resume"> <!--INCOMPLETE: CREATE AND ADD RESUME.PNG and RESUME.PDF-->
             <p>Download my resume:><a href="resume.pdf" style="text-decoration:none;" download><i>here</i></a></p> <!--INCOMPLETE: CREATE AND ADD RESUME.PDF-->
         </div>
-        <div class="contact">
+        <!-- <div class="contact">
             <h2>Send Me A Message!</h2>
             <form action="contact.php" method="POST">
                 <input type="text"name="name" placeholder="Name" required>
@@ -60,6 +60,6 @@
                 <textarea id="message" name="message" rows="4" cols="50" placeholder="Message" required></textarea>
                 <input type="submit" value="Submit">
             </form>
-        </div>
+        </div> -->
     </body>
 </html>
