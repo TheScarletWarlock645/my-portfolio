@@ -20,6 +20,7 @@
                 deleniti ex!</p>
         </div>
         <div class="tech-grid">
+            <h2>Technologies I Use:</h2>
             <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"></a>
             <a href="https://github.com/TheScarletWarlock645"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a>
             <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a>
