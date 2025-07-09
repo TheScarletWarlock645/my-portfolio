@@ -14,13 +14,16 @@
         <div class="about">
             <img src="recources/headshot.jpg" style="transform:scale(0.05);">
             <h2>About Me</h2>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Esse neque
-                officia vero maiores reprehenderit sit quod et, reiciendis dolor libero
-                provident delectus distinctio nemo recusandae rerum quisquam fuga 
-                deleniti ex!</p>
+            <p>Hi, my name is Angelo. I am a sophmore in highschool and recently moved back to the United States.
+                I am very interested in computer science and software development, as well as music. I play multiple
+                instruments and always enjoy learning more. I also enjoy developing electronic designs, and hope to
+                study electronic engineering in the future. Additionally, I do photography in my free time. Explore
+                this portfolio to see what I get up to!</p>
         </div>
+        <br>
+        <br>
+        <h2>Technologies I Use:</h2>
         <div class="tech-grid">
-            <h2>Technologies I Use:</h2>
             <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"></a>
             <a href="https://github.com/TheScarletWarlock645"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /></a>
             <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></a>
@@ -46,6 +49,8 @@
             <a href="https://www.raspberrypi.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" /></a>
             <a href="https://sqlite.org/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" /></a>
         </div>
+        <br>
+        <br>
         <div class="resume">
             <h2>My Resume</h2>
             <img src="recources/resume.png" class="resume"> <!--INCOMPLETE: CREATE AND ADD RESUME.PNG and RESUME.PDF-->
