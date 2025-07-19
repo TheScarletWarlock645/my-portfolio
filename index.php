@@ -7,12 +7,10 @@
     <body>
         <header>
             <?php include('nav.php'); ?>
-            <h1>Angelo</h1>
-            <br>
-            <h1>Semertsidis</h1>
+            <img src="header_img.jpg" alt="header image">
         </header>
         <div class="about">
-            <img src="recources/headshot.jpg" style="transform:scale(0.05);">
+            <!-- <img src="recources/headshot.jpg" style="transform:scale(0.05);"> -->
             <h2>About Me</h2>
             <p>Hi, my name is Angelo. I am a sophmore in highschool and recently moved back to the United States.
                 I am very interested in computer science and software development, as well as music. I play multiple
@@ -53,8 +51,8 @@
         <br>
         <div class="resume">
             <h2>My Resume</h2>
-            <img src="recources/resume.png" class="resume"> <!--INCOMPLETE: CREATE AND ADD RESUME.PNG and RESUME.PDF-->
-            <p>Download my resume:<a href="resume.pdf" style="text-decoration:none;" download><i>here</i></a></p> <!--INCOMPLETE: CREATE AND ADD RESUME.PDF-->
+            <img src="recources/resume.jpg" class="resume">
+            <p>Download my resume: <a href="recources/resume.pdf" style="text-decoration:none;" download><i>here</i></a></p>
         </div>
         <!-- <div class="contact">
             <h2>Send Me A Message!</h2>
