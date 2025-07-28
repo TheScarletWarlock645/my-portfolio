@@ -46,6 +46,9 @@
             <a href="https://www.nano-editor.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-plain-wordmark.svg" /></a>
             <a href="https://www.raspberrypi.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" /></a>
             <a href="https://sqlite.org/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" /></a>
+            <a href="https://ohmyz.sh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" /></a>
+            <a href="https://zsh.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-plain.svg" /></a>
+            <a href="https://archlinux.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /></a>
         </div>
         <br>
         <br>
