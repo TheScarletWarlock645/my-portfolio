@@ -5,15 +5,12 @@
         <title>Angelo S | Portfolio</title>
     </head>
     <body>
-        <?php include('nav.php'); ?>
+        <?php include('nav.php'); ?> 
         <header>
             <div class="title">
                 <h1>Angelo</h1>
                 <hr>
                 <h1>Semertsidis</h1>
-            </div>
-            <div class="scroll-indicator">
-                <div class="scroll-arrow"></div>
             </div>
         </header>
         <div class="about">
