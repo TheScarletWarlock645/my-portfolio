@@ -12,6 +12,9 @@
                 <hr>
                 <h1>Semertsidis</h1>
             </div>
+            <div class="scroll-indicator">
+                <div class="scroll-arrow"></div>
+            </div>
         </header>
         <div class="about">
             <!-- <img src="recources/headshot.jpg" style="transform:scale(0.05);"> -->
