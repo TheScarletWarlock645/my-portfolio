@@ -5,9 +5,13 @@
         <title>Angelo S | Portfolio</title>
     </head>
     <body>
+        <?php include('nav.php'); ?>
         <header>
-            <?php include('nav.php'); ?>
-            <img src="header_img.jpg" alt="header image">
+            <div class="title">
+                <h1>Angelo</h1>
+                <hr>
+                <h1>Semertsidis</h1>
+            </div>
         </header>
         <div class="about">
             <!-- <img src="recources/headshot.jpg" style="transform:scale(0.05);"> -->
