@@ -47,6 +47,7 @@ header /* header backround */ {
 }
 
 header /* header properties */ {
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
