@@ -11,6 +11,7 @@
                 <h1>Angelo</h1>
                 <hr>
                 <h1>Semertsidis</h1>
+                <div class="scroll-down"></div>
             </div>
         </header>
         <div class="about">

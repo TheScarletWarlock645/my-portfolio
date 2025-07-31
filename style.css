@@ -117,9 +117,58 @@ header h1 {
     color: white;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
+
+    text-decoration: underline 0.15em rgba(0, 0, 0, 0);
+    transition: text-decoration-color 300ms;
 }
 
 .navbar li a:hover {
-    background-color: #111;
+    text-decoration-color: rgb(255, 255, 255);
+}
+
+.scroll-down {
+    height: 50px;
+    width: 30px;
+    border: 2px solid white;
+    position: absolute;
+    left: 50%;
+    bottom: 20px;
+    border-radius: 50px;
+}
+ 
+ 
+.scroll-down::before,
+.scroll-down::after {
+    content: "";
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    height: 10px;
+    width: 10px;
+    transform: translate(-50%, -100%) rotate(45deg);
+    border: 2px solid white;
+    border-top: transparent;
+    border-left: transparent;
+    animation: scroll-down 1s ease-in-out infinite;
+}
+ 
+ 
+.scroll-down::before {
+    top: 30%;
+    animation-delay: 0.3s;
+  }
+   @keyframes scroll-down {
+    0% {
+      opacity: 0;
+    }
+    30% {
+      opacity: 1;
+    }
+    60% {
+      opacity: 1;
+    }
+    100% {
+      top: 90%;
+      opacity: 0;
+    }
 }
