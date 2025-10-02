@@ -62,6 +62,16 @@
             <img src="recources/resume.jpg" class="resume">
             <p>Download my resume: <a href="recources/resume.pdf" style="text-decoration:none;" download><i>here</i></a></p>
         </div>
+        <div class="project_1">
+            <h2>RFID Door lock</h2>
+            <img src="#" alt="door_lock_pcb" />
+            <p>This is a schematic and PCB design for an ESP32 based RFID door locking mechanism.</p>
+        </div>
+        <div class="project_2">
+            <h2>Terminal Dice Roller</h2>
+            <img src="#" alt="terminal_dice_roller"/>
+            <p></p>s
+        </div>
         <!-- <div class="contact">
             <h2>Send Me A Message!</h2>
             <form action="contact.php" method="POST">
